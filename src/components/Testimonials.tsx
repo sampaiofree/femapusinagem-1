@@ -13,7 +13,7 @@ const Testimonials = () => {
     },
     {
       name: "Marcos Silva",
-      company: "Green Pack Ind. e Com.",
+      company: "Indústria de Plásticos",
       role: "Diretor de Operações",
       content:
         "Parceria de anos com a FEMAP. Confiabilidade e qualidade são marcas registradas. A equipe técnica é extremamente competente e comprometida.",
