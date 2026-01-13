@@ -106,7 +106,7 @@ const Testimonials = () => {
             Empresas que confiam em nosso trabalho
           </p>
           <div className="flex flex-wrap justify-center items-center gap-8 opacity-60">
-            {["Green Pack", "Indústrias Locais", "Equiplex"].map(
+            {["Green Pack", "Coca Cola", "Equiplex"].map(
               (client, index) => (
                 <div
                   key={index}
